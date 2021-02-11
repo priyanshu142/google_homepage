@@ -1,0 +1,65 @@
+#personal {
+  width: 40px;
+  height: 40px;
+  text-align: right;
+  border-radius: 100%;
+}
+#right {
+  text-align: right;
+}
+#center {
+  text-align: center;
+}
+#google {
+  text-align: center;
+  position: relative;
+  top: 120px;
+}
+#link1 {
+  position: relative;
+  top: -15px;
+  color: black;
+  font-size: 15px;
+  right: 50px;
+}
+#link2 {
+  position: relative;
+  top: -15px;
+  color: black;
+  font-size: 15px;
+  right: 40px;
+}
+
+#link3{
+    position: relative;
+  top: -4px;
+  height: 30px;
+  right: 30px;
+}
+#link4{
+  top: -4px;
+  height: 30px;
+ left: 20px;
+}
+#link5{
+  top: -4px;
+  height: 30px;
+ left: 20px;
+}
+#form {
+  width: 450px;
+  height: 40px;
+  border-radius: 30px;
+  border-color:whitesmoke ;
+ box-shadow: 5px 1px 10px #888888;
+ background-image: url('https://s.clipartkey.com/mpngs/s/36-369899_discussion-opinions-on-the-new-microphone-icon-google.png') , url('http://assets.stickpng.com/thumbs/585e4ae1cb11b227491c3393.png');
+background-position: right,left;
+background-position-x: 450px,15px;
+padding-left: 45px;
+background-size: 25px;
+background-repeat: no-repeat;
+
+}
+
+
+}
